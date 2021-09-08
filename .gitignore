@@ -1,0 +1,8 @@
+## Ignore Idea files 
+.idea/
+
+## Ignore output files
+*.pdf
+
+## Ignore template folder
+templates/
